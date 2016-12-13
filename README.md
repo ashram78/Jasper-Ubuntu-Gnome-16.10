@@ -1,5 +1,5 @@
 # Jasper-Ubuntu-Gnome-16.10
-	Jasper voice control on Ubuntu Gnome 16.10 - disk image, live cd and installer
+Jasper voice control on Ubuntu Gnome 16.10 - disk image, live cd and installer
 
 # Installation notes
 This bash was tested on a clean install of Ubuntu Gnome 16.10, please back up all your data before performing this installation

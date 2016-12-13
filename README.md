@@ -14,4 +14,4 @@ wait until the process is finished, it can take up to 30 minutes, this bash incl
 # Install from image
 This is the link to the iso and the live dvd image of Ubuntu Gnome 16.10 (amd64)
 
-	https://drive.google.com/drive/folders/0B6uoLwNIVImdajJSd2ZqU0xMaDQ?usp=sharing
+https://drive.google.com/drive/folders/0B6uoLwNIVImdajJSd2ZqU0xMaDQ?usp=sharing
